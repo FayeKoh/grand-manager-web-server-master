@@ -1,0 +1,36 @@
+{
+  "name": "parking-manager-system-web-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "axios": "^0.21.1",
+    "core-js": "^2.6.5",
+    "echarts": "^5.0.2",
+    "element-ui": "^2.4.5",
+    "js-md5": "^0.7.3",
+    "moment": "^2.29.1",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuetify": "^2.6.5",
+    "vuex": "^3.6.2",
+    "xlsx": "^0.18.5",
+    "xlsx-style": "^0.8.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.12.0",
+    "@vue/cli-service": "^3.12.0",
+    "deepmerge": "^4.3.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^13.2.0",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
