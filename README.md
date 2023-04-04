@@ -1,27 +1,26 @@
-
-
-
-
 # model
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### UiView
 
@@ -29,31 +28,24 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Login](pic/Login.png)
 
-用户管理界面
+注册界面
+
+![Register](pic/Register.png)
+
+账户管理界面
 
 ![UserList](pic/UserList.png)
 
-停车记录录入
-
-![AddParkRecord](pic/AddParkRecord.png)
-
-停车场录入
-
+停车场管理
+![SearchPark](pic/SearchPark.png)
 ![AddPark](pic/AddPark.png)
 
-数据查询
-
+停车记录管理
 ![SearchParkRecord](pic/SearchParkRecord.png)
+![AddParkRecord](pic/AddParkRecord.png)
 
-![SearchPark](pic/SearchPark.png)
-
-数据分析
-
-![AreaFlow](pic/AreaFlow.png)
-
+时段分析预测
 ![TimeAnalysis](pic/TimeAnalysis.png)
+![Forecast](pic/Forecast.png)
 
-车位预测
-
-![Forecast](pic/Forecast.png)# grand-manager-web-server-master
 # grand-manager-web-server-master
